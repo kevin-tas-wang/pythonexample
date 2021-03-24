@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/KevinWang0146/KevinWang/_apis/build/status/kevin-tas-wang.pythonexample?branchName=azure-pipelines)](https://dev.azure.com/KevinWang0146/KevinWang/_build/latest?definitionId=1&branchName=azure-pipelines)
+https://dev.azure.com/KevinWang0146/KevinWang/_apis/build/status/kevin-tas-wang.pythonexample?branchName=azure-pipelines
 
 # Python/Flask Tutorial for Visual Studio Code
 
